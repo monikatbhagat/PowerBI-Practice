@@ -7,3 +7,5 @@
     . Which products giving more sales
     . Year and month wise analysis of revenue
     . Revenue by markets etc.
+    
+    Published on PowerBI Web.
